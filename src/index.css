@@ -1,0 +1,10 @@
+.containet_centre{
+  display: flex;
+  justify-content: center;
+}
+
+.spanP{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
